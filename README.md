@@ -8,4 +8,5 @@ and afterwards, can download that resume with .docx or .pdf extension as per con
 
 ## Utilities
 - HTML, CSS, Javascript
+- CDNjs and Bootstrap
 - Visual Studio Code
